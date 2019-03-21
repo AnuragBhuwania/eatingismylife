@@ -1,0 +1,1 @@
+We were struggling with some git Error. Also, after we finished all gold points, we tried to make more features to make the game cool.
